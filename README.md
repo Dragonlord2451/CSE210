@@ -1,5 +1,5 @@
 # cse210-student-template
-This is the starter code for students in CSE 210.
+This is the start to coding with C# made by Collin Olive
 
 This repository contains the starter code for many different projects. these are made by Collin Olive
 
