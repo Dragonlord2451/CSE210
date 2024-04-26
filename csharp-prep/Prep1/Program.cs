@@ -2,7 +2,7 @@ using System;
 
 class Program
 {
-    public static void Main()
+    static void Main(string[] args)
     {
         Console.Write("Please enter your first name: ");
         string firstName = Console.ReadLine(); // Read first name
