@@ -12,7 +12,6 @@ public class Program
         LoadGoals();
         while (true)
         {
-            Console.Clear();
             DisplayGoals();
             DisplayScore();
             DisplayMenu();
